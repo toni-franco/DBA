@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prova/index/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"dg-home":true,"permalink":"/prova/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Hola mon des de  Obsidian
